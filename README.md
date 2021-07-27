@@ -1,16 +1,26 @@
-# flutter_hava
+# flutter_hava durumu uygulaması
 
-A new Flutter project.
+Hava durumu uygulaması openweather API'ı kullanarak hazırlanmıştır👨🏻‍💻💻
 
-## Getting Started
+## Proje Tanımı
 
-This project is a starting point for a Flutter application.
+Bu uygulama Android Studio üzerinde Flutter ile geliştirilmiştir.
 
-A few resources to get you started if this is your first Flutter project:
+Android ve IOS işletim sistemlerine sahip cihazlarda çalışabilir.📱🖤
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Hava durumu bilgilerini OpenWeather üzerinden almaktadır.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Koordinat bilgileri alınması için geolocator paketi kullanışmıştır. 
+İlgil linkten göz atabilirsiniz.
+👇🏻
+https://pub.dev/packages/geolocator
+
+## Uygulamayı Kullanmak
+
+terminal üzerinden ilgili folder'da flutter pub get komutunu kullanarak bilgisayarınızda çalıştırabilirsiniz.
+
+
+Yardım almak için flutter'ın dökümanlarını kullanabilirsiniz.
+[online documentation](https://flutter.dev/docs),👨🏻‍💻💻
+
+Görüşmek üzere 🤜🤛🏽 🤍
