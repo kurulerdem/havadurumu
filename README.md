@@ -12,7 +12,6 @@ Hava durumu bilgilerini OpenWeather üzerinden almaktadır.
 
 Koordinat bilgileri alınması için geolocator paketi kullanışmıştır. 
 İlgil linkten göz atabilirsiniz.
-👇🏻
 https://pub.dev/packages/geolocator
 
 ## Uygulamayı Kullanmak
@@ -21,6 +20,4 @@ terminal üzerinden ilgili folder'da flutter pub get komutunu kullanarak bilgisa
 
 
 Yardım almak için flutter'ın dökümanlarını kullanabilirsiniz.
-[online documentation](https://flutter.dev/docs),👨🏻‍💻💻
-
-Görüşmek üzere 🤜🤛🏽 🤍
+[online documentation](https://flutter.dev/docs),
